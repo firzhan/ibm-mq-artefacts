@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="com.ibm.mq.allclient">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jars/com.ibm.mq.allclient.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/fscontext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/jms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jars/providerutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../jars/com.ibm.mq.allclient.jar!/" />
+    </SOURCES>
+  </library>
+</component>
